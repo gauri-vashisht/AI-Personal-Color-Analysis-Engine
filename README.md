@@ -3,9 +3,7 @@ AI Personal color analyst that tells you what looks great on you and what doesn'
 
 Link to test it out - https://1d74f954a0e1465391.gradio.live/
 
-
-<img width="1274" height="485" alt="image" src="https://github.com/user-attachments/assets/e2949aa5-7bc7-41fe-8e11-0c5e3956f992" />
-
+<img width="1067" height="549" alt="image" src="https://github.com/user-attachments/assets/66179de4-9212-42d1-920f-c97ff5dd1fa5" />
 
 How it all works:
 
