@@ -1,8 +1,6 @@
 # Personal-Stylist
 AI Personal color analyst that tells you what looks great on you and what doesn't, on the basis of an image that is uploaded. this uses CV2, gradio, unsupervised learning - K means.
 
-Link to test it out - https://1d74f954a0e1465391.gradio.live/
-
 <img width="1067" height="549" alt="image" src="https://github.com/user-attachments/assets/66179de4-9212-42d1-920f-c97ff5dd1fa5" />
 
 How it all works:
